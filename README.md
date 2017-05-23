@@ -1,3 +1,5 @@
-# hello-world
+﻿# hello-world
 Primeiro repositório seguindo o tutorial
-Fazendo alterações para o commit
+
+# Para fazer o clone use
+git clone https://github.com/danielvazmartins/hello-world.git hello-world
